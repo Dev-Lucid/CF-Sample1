@@ -5,39 +5,52 @@
 [submodule "lib/JsonVC"]
 	path = lib/JsonVC
 	url = git@github.com:Dev-Lucid/JsonVC.git
+	branch = master
 [submodule "lib/DatabaseManager"]
 	path = lib/DatabaseManager
 	url = git@github.com:Dev-Lucid/DatabaseManager.git
+	branch = master
 [submodule "lib/BootstrapConstructor"]
 	path = lib/BootstrapConstructor
 	url = git@github.com:Dev-Lucid/BootstrapConstructor.git
+	branch = master
 [submodule "lib/DataValidator"]
 	path = lib/DataValidator
 	url = git@github.com:Dev-Lucid/DataValidator.git
+	branch = master
 [submodule "lib/LanguageHelper"]
 	path = lib/LanguageHelper
 	url = git@github.com:Dev-Lucid/LanguageHelper.git
+	branch = master
 [submodule "lib/DataFormatter"]
 	path = lib/DataFormatter
 	url = git@github.com:Dev-Lucid/DataFormatter.git
+	branch = master
 [submodule "lib/Logger"]
 	path = lib/Logger
 	url = git@github.com:Dev-Lucid/Logger.git
+	branch = master
 [submodule "lib/SessionManager"]
 	path = lib/SessionManager
 	url = git@github.com:Dev-Lucid/SessionManager.git
+	branch = master
 [submodule "lib/jsmin-php"]
 	path = lib/jsmin-php
 	url = git@github.com:eriknyk/jsmin-php.git
+	branch = master
 [submodule "lib/jquery-hashchange"]
 	path = lib/jquery-hashchange
 	url = git@github.com:bp323/jquery-hashchange.git
+	branch = master
 [submodule "lib/FontAwesome"]
 	path = lib/FontAwesome
 	url = git@github.com:FortAwesome/Font-Awesome.git
+	branch = master
 [submodule "lib/console.js"]
 	path = lib/console.js
 	url = git@github.com:NV/console.js.git
+	branch = master
 [submodule "lib/ConstellationFramework"]
 	path = lib/ConstellationFramework
 	url = git@github.com:Dev-Lucid/ConstellationFramework.git
+	branch = master
