@@ -4,28 +4,28 @@
 	branch = 3.0.0-wip
 [submodule "lib/JsonVC"]
 	path = lib/JsonVC
-	url = git@github.com:WasabiVengeance/JsonVC.git
+	url = git@github.com:Dev-Lucid/JsonVC.git
 [submodule "lib/DatabaseManager"]
 	path = lib/DatabaseManager
-	url = git@github.com:WasabiVengeance/DatabaseManager.git
+	url = git@github.com:Dev-Lucid/DatabaseManager.git
 [submodule "lib/BootstrapConstructor"]
 	path = lib/BootstrapConstructor
-	url = git@github.com:WasabiVengeance/BootstrapConstructor.git
+	url = git@github.com:Dev-Lucid/BootstrapConstructor.git
 [submodule "lib/DataValidator"]
 	path = lib/DataValidator
-	url = git@github.com:WasabiVengeance/DataValidator.git
+	url = git@github.com:Dev-Lucid/DataValidator.git
 [submodule "lib/LanguageHelper"]
 	path = lib/LanguageHelper
-	url = git@github.com:WasabiVengeance/LanguageHelper.git
+	url = git@github.com:Dev-Lucid/LanguageHelper.git
 [submodule "lib/DataFormatter"]
 	path = lib/DataFormatter
-	url = git@github.com:WasabiVengeance/DataFormatter.git
+	url = git@github.com:Dev-Lucid/DataFormatter.git
 [submodule "lib/Logger"]
 	path = lib/Logger
-	url = git@github.com:WasabiVengeance/Logger.git
+	url = git@github.com:Dev-Lucid/Logger.git
 [submodule "lib/SessionManager"]
 	path = lib/SessionManager
-	url = git@github.com:WasabiVengeance/SessionManager.git
+	url = git@github.com:Dev-Lucid/SessionManager.git
 [submodule "lib/jsmin-php"]
 	path = lib/jsmin-php
 	url = git@github.com:eriknyk/jsmin-php.git
