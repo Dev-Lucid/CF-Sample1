@@ -38,3 +38,6 @@
 [submodule "lib/console.js"]
 	path = lib/console.js
 	url = git@github.com:NV/console.js.git
+[submodule "lib/ConstellationFramework"]
+	path = lib/ConstellationFramework
+	url = git@github.com:Dev-Lucid/ConstellationFramework.git
