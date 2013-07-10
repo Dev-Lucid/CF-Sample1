@@ -7,6 +7,9 @@
 
 update-libs:
 	@php -f lib/ConstellationFramework/bin/update.php all
+	
+commit-libs:
+	@php -f lib/ConstellationFramework/bin/commit-libs.php all "updating libs"
 
 # include build also does js/css/models.
 includes:
